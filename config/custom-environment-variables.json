@@ -1,0 +1,18 @@
+{
+  "db": {
+    "type": "DB_TYPE",
+    "database": "DB_NAME",
+    "mariadb": {
+      "host": "DB_MARIADB_HOST",
+      "port": "DB_MARIADB_PORT",
+      "username": "DB_MARIADB_USERNAME",
+      "password": "DB_MARIADB_PASSWORD"
+    }
+  },
+  "jwt": {
+    "secret": "JWT_SECRET"
+  },
+  "server": {
+    "port": "SERVER_PORT"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "db": {
+    "database": "test-databasename",
+    "mariadb": {
+      "username": "root",
+      "password": "xxxx"
+    }
+  }
+}

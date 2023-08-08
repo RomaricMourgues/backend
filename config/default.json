@@ -1,0 +1,18 @@
+{
+  "db": {
+    "type": "mariadb",
+    "database": "",
+    "mariadb": {
+      "host": "localhost",
+      "port": "3360",
+      "username": "",
+      "password": ""
+    }
+  },
+  "jwt": {
+    "secret": "xxxx"
+  },
+  "server": {
+    "port": 3000
+  }
+}
